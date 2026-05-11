@@ -1,7 +1,9 @@
 Terminal Commands
-mkdir
-ls
-cd
+- mkdir
+- ls
+- cd
+- cat
+- vi
 
 
 
@@ -12,7 +14,7 @@ SSH Commands
 Git Setup Commands
 - git init
 - git clone git@github.com:jarbunn/git_training_repo.git
-- git remote add origin git@github.com:jarbunn/git_training_repo.git
+- git remote add origin main
 - git pull main
 
 Git Branch Commands
@@ -20,6 +22,8 @@ Git Branch Commands
 - git checkout -b my_branch
 - git add <file_name>
 - git add .
+- git restore <file_name>
+- git restore --staged <file_name>
 - git commit -m "Some Message"
 - git push -u origin my_branch
 - git push --set-upstream origin my_branch
