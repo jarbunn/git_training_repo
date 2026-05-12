@@ -1,5 +1,2 @@
-Second Git 
-
-afa
-
-fgdtring session
+First Git training session
+Second Git training session
